@@ -1,1 +1,0 @@
-select * from encuesta e join pregunta p on e.id=p.idencuesta join respuesta r on p.id=r.idpregunta
